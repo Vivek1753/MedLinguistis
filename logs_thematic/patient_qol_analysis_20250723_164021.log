@@ -1,0 +1,22 @@
+2025-07-23 16:40:21,756 - INFO - Configuration and logging setup complete.
+2025-07-23 16:40:21,757 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-23 16:40:24,829 - INFO - Use pytorch device_name: cpu
+2025-07-23 16:40:24,829 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 16:40:27,974 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-23 16:40:29,213 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-23 16:40:30,591 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-23 16:40:31,619 - INFO - Use pytorch device_name: cpu
+2025-07-23 16:40:31,620 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 16:40:35,704 - INFO - Use pytorch device: cpu
+2025-07-23 16:40:36,100 - INFO - ChromaDB initialized.
+2025-07-23 16:41:00,698 - INFO - Ollama connected: Hi! It's nice to meet you. Is there something I ca
+2025-07-23 16:41:48,054 - INFO - Report saved successfully: reports\2adb06cf-3773-4e61-b5a8-8fd03b180278_Mary_Simpson.json
+2025-07-23 16:43:02,062 - INFO - 32 documents added to vectorstore.
+2025-07-23 16:43:06,787 - ERROR - Dense retrieval failed: Error executing plan: Internal error: Error finding id
+2025-07-23 16:45:20,696 - INFO - Report saved successfully: reports\fd08f23d-b39e-4dc8-999a-dcbf9e8efd6a_MARY_SIMPSON.json
+2025-07-23 16:59:51,162 - INFO - 32 documents added to vectorstore.
+2025-07-23 16:59:53,399 - ERROR - Dense retrieval failed: Error executing plan: Internal error: Error finding id
+2025-07-23 17:01:52,068 - INFO - Report saved successfully: reports\f42f553a-2ea6-41a2-96e5-7f02e64f46bb_MARY_SIMPSON.json
+2025-07-23 17:14:38,744 - INFO - 3 documents added to vectorstore.
+2025-07-23 17:14:41,087 - ERROR - Dense retrieval failed: Error executing plan: Internal error: Error finding id
+2025-07-23 17:16:51,566 - INFO - Report saved successfully: reports\b893d781-d2ea-47bd-8f08-1e6f0750cfb5_MARY_SIMPSON.json

@@ -1,0 +1,83 @@
+ {
+        "Patient_ID": "Zoe Bell",
+        "Metadata": {
+            "Age": 80,
+            "Gender": "Female",
+            "Ethnicity": "Other",
+            "Marital_Status": "Single",
+            "Occupation_Category": "Retired",
+            "Job_Title": "Retired",
+            "Weight_Current_Kg": 89,
+            "Weight_Lowest_Kg": 86,
+            "Weight_Highest_Kg": 95,
+            "Weight_Status": "going up",
+            "BMI_Category": "Overweight",
+            "Previous_Hernia_Repairs": [
+                {
+                    "Year": 1996,
+                    "Hospital": "Regional Specialist Unit, Manchester",
+                    "Type": "Open Repair",
+                    "Mesh_Used": "Yes",
+                    "Wound_Breakdown": "No",
+                    "Healing_Time": null
+                },
+                {
+                    "Year": 1992,
+                    "Hospital": "Private Clinic, Sheffield",
+                    "Type": "Open Repair",
+                    "Mesh_Used": "No",
+                    "Wound_Breakdown": "No",
+                    "Healing_Time": null
+                }
+            ],
+            "Medical_History": {
+                "Prior_Major_Surgeries": [
+                    "Caesarian Section (3)"
+                ],
+                "Diabetes": "No",
+                "Smoking_Status": "No (never smoked)",
+                "High_Blood_Pressure": "No",
+                "Thyroid_Disease": "No",
+                "Kidney_Disease": "No",
+                "Heart_Disease_History": "No",
+                "Asthma_COPD": "No",
+                "Sleep_Apnoea": "No",
+                "Arthritis": "No",
+                "Neurological_Disorder": "No",
+                "Immunosuppressed": "No",
+                "Cancer_History": "No",
+                "Alcohol_Consumption": "Moderate",
+                "Abdominal_Wound_Infections_Past": "No",
+                "Serious_Infection_History": "No",
+                "Stoma": "No",
+                "Able_to_lie_flat_comfortably": "Yes"
+            },
+            "Medications": {},
+            "QoL_Areas_Affected": [
+                "Mental Health",
+                "Symptoms",
+                "Body Image",
+                "Employment",
+                "Relationships (social and sexual)"
+            ]
+        },
+        "Narratives": {
+            "Symptoms_Restrictions_Activities": "\"Oh, this hernia... it's a real bother at my age. It's not a constant pain, mind you, but I get this sharp twinge whenever I try to bend down. Gardening, which I used to love, is nearly impossible now. Even picking up my little granddaughter, Lily, gives me a dragging feeling, like something's pulling. I used to be able to walk for miles, but now just a short stroll leaves me with a dull ache in my abdomen for the rest of the day. And, well, things aren't quite what they used to be in the bedroom either, if you catch my drift. It's just\u2026 uncomfortable.\"\n",
+            "Symptoms_Adaptations_Face": "\"Honestly, this hernia has thrown a real wrench into things. I used to love gardening, especially lifting the heavy pots of flowers. Now, I have to watch my daughter lug them around; I just point and supervise! It\u2019s frustrating. I've bought these high-waisted support pants that I wear most days, they help a bit. Reaching for things above my head is a no-go now, so I keep a step stool handy everywhere. And forget playing with my grandkids on the floor. It\u2019s chair time for me, or maybe a short walk, but nothing strenuous. Even getting dressed can be a chore; bending over is uncomfortable, so I have to take my time and sit down to put on my shoes. I've even started sleeping on my back mostly, because rolling onto my stomach just puts too much pressure on it.\"\n",
+            "Symptoms_Affect_Movement": "Okay, here's a patient narrative based on the information provided, focusing on the impact of the hernia on general movement:\n\n\"Oh, this hernia... it's just a constant bother. Bending over is the worst; I have to bend at the knees, keeping my back straight as possible, because bending from the waist feels like everything's going to rip open again. It\u2019s like a pulling sensation, a dull ache, and this feeling of something being out of place. Twisting is almost as bad; I try to avoid it completely. Turning to reach something in the kitchen... it sends a sharp jolt sometimes.\n\nStanding up from a chair can be tricky too. I need to push myself up slowly, because otherwise, I feel a pressure that makes me gasp. Getting out of bed in the morning is the same - I have to roll onto my side first and then ease myself up. As for walking, I can do it, but it\u2019s a lot slower than it used to be. I\u2019m constantly aware of the hernia. I\u2019m careful not to overdo it. I just feel\u2026 fragile, I guess. I take very small steps when I need to move quickly. I am also quite stiff when I start walking and need to take it easy until I loosen up.\n\"\n",
+            "Symptoms_Pain_Coping": "\"Oh, this hernia\u2026 it\u2019s a constant companion these days. I try to keep busy to take my mind off it, but when it really flares up, I reach for the paracetamol. That usually takes the edge off. I find myself taking more rests than I used to, especially after doing anything around the house. Lying down flat sometimes helps, and I've figured out how to gently press on it sometimes \u2013 the doctor showed me once \u2013 that can give me a little relief. I try to be mindful of my breathing too, slow, deep breaths seem to calm everything down a bit.\"\n",
+            "BodyImage_SelfConscious_Embarrassed": "\"Honestly, this hernia... it just makes me feel so ashamed. I hate how it looks. It's like a constant reminder that my body is failing me. I try to hide it, but the bulge is just so obvious, especially in certain clothes. I feel like everyone is staring at it, wondering what's wrong with me. It ruins my figure completely. Sometimes, I even feel like I look pregnant, which is just mortifying at my age. I hate going out because I'm always worried about how it looks and what people think. It makes me feel so disfigured and like I'm constantly hiding something.\"\n",
+            "BodyImage_Others_Noticing": "\"Oh, yes, I definitely think people notice it. It's hard not to when it bulges out like that. I've caught people staring, little awkward glances down at my stomach, you know? I even had someone ask me once if I was pregnant! Can you imagine? It's just humiliating. I hate going out now; I feel like everyone's eyes are on me, just judging me. I just want to shrink away and disappear. I'm embarrassed to be seen, honestly.\"\n",
+            "MentalHealth_Affected_Elaborate": "\"Honestly, this hernia\u2026 it\u2019s just\u2026 gotten to me. I never thought something like this could affect me so deeply. I feel\u2026trapped, like my body is betraying me. Some days I just feel so *low*. I try to keep busy, you know, do my crosswords, watch the telly, but it\u2019s just\u2026 all the joy seems to have drained out of it. It\u2019s always there, a dull ache, both physically and, well, *here*,\" she says, tapping her chest. \"I catch myself staring in the mirror, just picking apart my appearance. It's awful. I used to take such pride in how I looked, but now\u2026I just see this\u2026this *thing*. I\u2019m more irritable too, snapping at my grandkids when they\u2019re just trying to be helpful. I hate it. It\u2019s not me. I keep thinking, 'What\u2019s the point?' It's just a constant worry at the back of my mind, like a dark cloud that never goes away.\"\n",
+            "MentalHealth_Coping_Strategies": "\"Honestly, this hernia is really getting me down. It's always on my mind. I try to distract myself with watching TV or reading, but it's hard to concentrate. I find myself withdrawing from my friends. We used to go out for coffee, but now I just make excuses. I don't want them to see me like this or ask about it. And I've been looking up everything online, which probably makes it worse, but I just want to understand it all. Sometimes I get so frustrated I just snap at my family, and then I feel awful afterwards. It's a vicious cycle.\"\n",
+            "Relationships_Social_Affected": "\"It's hard to explain, but this darn hernia has really put a damper on things. Before, I loved my weekly card games with the ladies at the community center \u2013 used to look forward to it all week. But now, even sitting for a few hours makes my abdomen ache. I find myself making excuses not to go, and I miss them all terribly. It's not just the cards, it's the laughter and the camaraderie. I used to help out with the church bake sales too, but lifting and carrying things is completely out of the question now. I feel like I'm letting everyone down. Honestly, I worry I'm becoming a burden. My daughter's been wonderful, but I don't want to keep relying on her for everything. I feel so isolated sometimes.\"\n",
+            "Relationships_Intimate_Affected": "\"Honestly, this hernia has really messed with my relationship with my husband. I feel so self-conscious about my body now. It just looks... different. And it's not just the way I look. Sometimes it hurts, and I\u2019m just so hesitant to be intimate, worried about making it worse. I feel less desirable, and it's created this awkwardness between us. He tries to be supportive, but I can feel the strain on the relationship, and I feel guilty. There\u2019s no spontaneity anymore, and that\u2019s what I miss the most.\"\n",
+            "Employment_What_Do_You_Do": "Retired",
+            "Employment_Ability_To_Work_Affected": "N/A",
+            "Employment_Changed_Work": "N/A",
+            "Employment_Financial_Affected": "N/A",
+            "SharedDecisionMaking_Questions": "\"Well, Doctor, I've had this hernia patched up twice already, and I'm getting on in years. I'm mostly worried about a few things. First, given my age, what are the biggest risks with the surgery itself? Second, how long will the recovery be this time, and will it be more painful than the other repairs? I'm retired, but I still like to get around the house. Also, is there any chance this surgery will change the way my stomach looks afterwards? Finally, what are the chances it'll come back *again*, and what can be done about the pain if it does?\"\n",
+            "SharedDecisionMaking_Hopes": "\"Honestly, at my age, I'm not expecting miracles. But this hernia... it's really wearing me down. I'm tired of feeling self-conscious about how it looks, and it's started affecting my relationships, especially since it's gotten uncomfortable intimacy off the table. I'm retired now, so I don't need to worry about work, but I'd love to be able to go for walks without feeling like everything's going to fall out. I used to love gardening, and now I can barely bend over. I just want to feel comfortable in my own skin again, and maybe even feel like I can enjoy my retirement a little more, and not have this darn thing holding me back.\"\n",
+            "SharedDecisionMaking_Matters_To_You": "\"Honestly, at my age, I just want to enjoy my retirement. This hernia... it's not just the discomfort, it's robbing me of so much. I used to love gardening, but now bending over is a real struggle. And my grandkids? They're the light of my life, but I can't run around with them like I used to. I just want to be able to play with them, help them with their projects, and be the active grandma they deserve. I want to feel like myself again, not like some frail old woman limited by this darn thing.\"\n"
+        }
+    }

@@ -1,0 +1,9 @@
+2025-07-22 00:27:31,810 - INFO - Configuration and logging setup complete.
+2025-07-22 00:27:31,811 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:27:32,145 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:27:32,920 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:27:32,931 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:27:32,961 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:27:37,877 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:27:37,880 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:27:37,880 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})

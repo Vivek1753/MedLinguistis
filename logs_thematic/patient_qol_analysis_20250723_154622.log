@@ -1,0 +1,15 @@
+2025-07-23 15:46:22,648 - INFO - Configuration and logging setup complete.
+2025-07-23 15:46:22,649 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-23 15:46:26,839 - INFO - Use pytorch device_name: cpu
+2025-07-23 15:46:26,839 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 15:46:31,568 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-23 15:46:33,273 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-23 15:46:35,034 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-23 15:46:35,923 - INFO - Use pytorch device_name: cpu
+2025-07-23 15:46:35,924 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 15:46:40,489 - INFO - Use pytorch device: cpu
+2025-07-23 15:46:41,323 - INFO - ChromaDB initialized.
+2025-07-23 15:46:50,116 - INFO - Ollama connected: Hello! It's nice to meet you. Is there something I
+2025-07-23 15:47:40,137 - INFO - 69 documents added to vectorstore.
+2025-07-23 15:47:44,664 - ERROR - Dense retrieval failed: Error executing plan: Internal error: Error finding id
+2025-07-23 15:49:54,350 - INFO - Report saved successfully: reports\11714054-738c-47f8-8774-4e835c880188_Zoe_Bell.json

@@ -1,0 +1,67 @@
+{
+    "Patient_ID": "Clara Jordan",
+    "Metadata": {
+        "Age": 46,
+        "Gender": "Non-Binary",
+        "Ethnicity": "Other",
+        "Marital_Status": "Divorced",
+        "Occupation_Category": "Physical Labor",
+        "Job_Title": "Construction Worker",
+        "Weight_Current_Kg": 113,
+        "Weight_Lowest_Kg": 107,
+        "Weight_Highest_Kg": 117,
+        "Weight_Status": "going up",
+        "BMI_Category": "Obese",
+        "Previous_Hernia_Repairs": [],
+        "Medical_History": {
+            "Prior_Major_Surgeries": [
+                "Appendicectomy"
+            ],
+            "Diabetes": "No",
+            "Smoking_Status": "No (former smoker, quit 3 years ago)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "Vitamin D": "Daily"
+        },
+        "QoL_Areas_Affected": [
+            "Symptoms",
+            "Body Image",
+            "Mental Health",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "Narratives": {
+        "Symptoms_Restrictions_Activities": "\"Ugh, this hernia\u2026 it's really getting to me. Being a construction worker, you know, it's all about heavy lifting and being on your feet all day. Now, even just picking up a bag of cement sends this sharp pain shooting through my gut. It's not constant, but it happens every time I bend over or try to lift something even remotely heavy. It's frustrating.\n\nAnd it's not just work. I used to love tinkering in my garden, growing vegetables, but now even weeding is a chore. All that bending and kneeling? Forget about it. It causes this constant dragging ache that lingers for hours afterward. And honestly, just walking, even for a short distance, sometimes makes it feel like everything's gonna fall out. It's embarrassing, and it makes me feel so old. I'm only 46! I feel like I'm letting down my crew at work and I can't even do the things I enjoy anymore. It's a real bummer.\"\n",
+        "Symptoms_Adaptations_Face": "\"Ugh, this thing\u2026 it's changed everything. I used to be able to just *go*, you know? Now, first thing in the morning, I gotta wrestle myself into this support belt thing. Makes me feel like an old man. At the construction site, I'm constantly asking the younger guys for help with the heavy stuff. Makes me feel like I'm not pulling my weight. I even had to talk to my foreman about getting assigned to lighter tasks, which was embarrassing.\n\nSex life? Forget about it. The pain is a real mood killer. And honestly, I feel so self-conscious about how it looks. Doc said lying flat is fine, but certain positions are just\u2026 ouch. I used to love working on cars in my spare time, but bending over the engine for hours is just not happening anymore. I\u2019m even trying to stand up straighter \u2013 I read somewhere that can help. Even simple stuff, like carrying groceries \u2013 I try to distribute the weight evenly, or just make two trips instead of one. It\u2019s just\u2026 frustrating. Feels like my body\u2019s betraying me.\"\n",
+        "Symptoms_Affect_Movement": "Okay, here's a patient narrative, in direct quote form, based on the provided information:\n\n\"This hernia\u2026 it's a real pain. It's like there's always something *there*, a constant awareness, you know? Bending over is the worst. If I have to pick something up, especially if it's heavy, I get this sharp jolt, a pulling sensation right in my gut. Twisting? Forget about it. I have to keep my feet planted and turn my whole body, otherwise, it feels like something's going to rip.\n\nStanding up, especially after sitting or lying down for a while, is rough. I have to brace myself, kind of push myself up slowly, because there's this feeling of something out of place, almost like it's going to pop out more. Getting out of bed in the morning is similar - stiff and a bit fragile feeling until I get moving.\n\nEven just walking, I'm constantly aware of it. It's not excruciating pain all the time, but there's this dull ache, a pulling sensation. I can't walk as fast as I used to, and sometimes I have to stop to adjust myself, like to reposition something, you know? It just\u2026feels heavy and uncomfortable all the time.\"\n",
+        "Symptoms_Pain_Coping": "\"Ugh, this hernia is a real pain, literally. Some days it's just a dull ache, other days it feels like someone's poking me with a hot needle. I try to manage it as best I can, especially with my job. I used to pop ibuprofen like candy, but I\u2019m trying to cut back. Now I mostly take paracetamol when it's really bad. I've learned that if I sit a certain way, kind of leaning back a bit, it takes some of the pressure off. And honestly, I take a lot more breaks than I used to. Gotta sit down and catch my breath, you know? Sometimes, if I can gently push it back in \u2013 what they call \u2018reducing\u2019 it, I guess \u2013 it helps for a little while. I also try to take slow, deep breaths when it's acting up; kinda silly, but it sometimes distracts me from the pain. It's just\u2026 a constant awareness, really. I'm always thinking about it.\"\n",
+        "BodyImage_SelfConscious_Embarrassed": "\"I absolutely *hate* this thing. This hernia\u2026 it's just there. A constant reminder that my body isn't what it used to be. It's this huge bulge, especially when I'm standing or working, and I feel like everyone's staring at it. I feel so *ashamed* of how I look now. It ruins my figure, completely. I used to feel confident in my clothes, but now I just try to hide it under layers, which is impossible in the summer. I feel like I'm constantly hiding something, and it's exhausting. Sometimes, when I catch a glimpse of myself in the mirror, it makes me sick. Honestly, it makes me look pregnant, and that's\u2026 not me. It's not who I am. It\u2019s disfiguring and just\u2026 I don't want people to see it. I don't want to be seen.\"\n",
+        "BodyImage_Others_Noticing": "\"Yeah, it's hard to ignore. I definitely feel like people notice it. I catch people looking, sometimes a quick glance, other times a straight-up stare. It's mostly at work, you know, changing or bending over. It's just...uncomfortable. I even had one guy, not even thinking, say something about me looking pregnant! Can you believe that? It's humiliating, honestly. I just want to disappear sometimes. Like, I'm already dealing with everything else, and now I have to worry about feeling judged every time I leave the house. I try to wear baggy clothes, but it doesn't always work. I just feel embarrassed to be seen, like everyone is scrutinizing me.\"\n",
+        "MentalHealth_Affected_Elaborate": "\"It's\u2026it's hard to explain. Some days, I just feel\u2026low. Like a heavy blanket's been thrown over everything. I used to be so active, you know? Construction work, after all. But now, even thinking about lifting something sends a jolt of fear through me. I'm constantly worried about making it worse. I catch myself staring at it in the mirror, just\u2026stuck.\n\nMy mood swings are terrible. I snap at people, even the ones I care about. I don\u2019t mean to, but the frustration is just\u2026bubbling under the surface all the time. It's like this thing is controlling my life. I feel trapped in my own body.\n\nI keep thinking, 'What kind of shape am I in? I'm not supposed to be like this.' It feels like it's chipped away at who I am. I don't enjoy anything anymore. The things I used to look forward to, like going out with friends, are just\u2026overwhelming. I can't shake this sense of dread that something bad will happen. I just want to feel normal again, but I don\u2019t even know what that is anymore.\"\n",
+        "MentalHealth_Coping_Strategies": "\"It's been rough, I'm not gonna lie. This hernia...it's just...there. Always a reminder. Mentally, it's a drain. I find myself getting snappy with my partner sometimes, and I hate that. I know it's not fair to them. I've definitely been pulling back from my friends too. Used to love going out after work, but now I just...don't. I find myself online a lot, searching for information, hoping to find some magic cure or something, which is probably just making things worse. Sometimes, I try to distract myself. I'll binge-watch TV, anything to not think about it. But honestly, it's always there, nagging at me.\"\n",
+        "Relationships_Social_Affected": "\"It's\u2026complicated, you know? I used to be real active with my friends, part of the crew that always went out after work. We'd hit up the pool hall, grab some beers, you know, just unwind. But now? I\u2019m always making excuses. Like, last week they were all going bowling, and I just couldn\u2019t. The bending and lifting would kill me. \n\nHonestly, it's embarrassing. I don't want them to see me struggling, or think I'm just being lazy. So I say I'm busy, or not feeling well. But then I feel like I'm missing out, and they\u2019re probably starting to think I don\u2019t want to hang out anymore.\n\nIt\u2019s more than just missing out on the fun stuff, though. I feel like I'm becoming a burden. I worry they'll get tired of me being the one who always needs help, or the one who can't keep up. I can feel myself withdrawing, which makes it worse. It's hard to explain, but this hernia\u2026it\u2019s not just a physical problem. It's changing how I see myself, and how I think others see me too. I\u2019m just\u2026 less fun to be around now, I guess.\"\n",
+        "Relationships_Intimate_Affected": "\"This hernia... it's really messed with things between me and my partner. I feel so awkward, like I have to be careful about how I move, and it's hard to be spontaneous, you know? I feel less desirable, like this lump makes me unattractive. Sex is just... different. There's this constant worry in the back of my head about pain, and it makes me hesitant to really let go. I feel guilty sometimes, like I'm not being a good partner. It's definitely put a strain on the relationship, and I hate that.\"\n",
+        "Employment_What_Do_You_Do": "N/A",
+        "Employment_Ability_To_Work_Affected": "N/A",
+        "Employment_Changed_Work": "N/A",
+        "Employment_Financial_Affected": "N/A",
+        "SharedDecisionMaking_Questions": "Okay, here's a patient narrative, as a direct quote, reflecting the concerns of a 46-year-old non-binary construction worker with obesity and relevant medical history, preparing for abdominal wall hernia repair:\n\n\"Okay, so, Doc, I'm a bit anxious about this surgery, to be honest. First off, being a construction worker, I need to know how long I'm REALLY going to be out of work. Like, realistically, when can I get back to lifting heavy things and being on my feet all day? Secondly, I'm a bit self-conscious about how this hernia looks now, and I'm worried about how the scar will look after. Is there anything that can be done to minimize that? And finally, what are the chances of this thing coming back, especially considering my weight? I quit smoking a few years back, but will my history affect the chances? Oh, and what kind of pain can I expect long-term? Will it be a constant thing, or is there a good chance it'll settle down completely with proper care?\"\n",
+        "SharedDecisionMaking_Hopes": "\"Look, this thing\u2026 this bulge... it's driving me nuts. It's not just the pain, which is bad enough some days, but it's the way I feel about myself. I hate looking at it, hate how my clothes fit. I can't even enjoy spending time with my partner, you know, intimately. It's totally messed with our connection. I'm a construction worker, and I need to be able to lift and move things without being afraid this hernia's gonna pop or hurt. I quit smoking for my health, I'm trying to eat better, but this is just holding me back. I'm hoping this surgery will fix the pain, definitely, but also let me get my body back, feel good about myself again, and get back to work and just\u2026 live my life the way I want to.\"\n",
+        "SharedDecisionMaking_Matters_To_You": "\"Look, this thing\u2026 this hernia\u2026 it\u2019s messing with everything. I can\u2019t lift things at work like I used to, and that\u2019s a problem. Being a construction worker isn't just a job; it's how I provide for my family. It's who I am. I need to be strong, reliable. But it's not just the job. It's embarrassing, honestly. I don't feel comfortable in my own skin anymore. I used to go out dancing with my friends, but now I just stay home. And intimacy\u2026 forget about it. I just want to feel normal again, feel strong, and get back to my life\u2026 back to being me. I need to provide, I need to connect, and I need to be able to look at myself in the mirror without feeling disgusted.\"\n"
+    }
+}

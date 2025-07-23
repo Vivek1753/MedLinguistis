@@ -1,0 +1,12 @@
+2025-07-22 21:32:08,620 - INFO - Configuration and logging setup complete.
+2025-07-22 21:32:08,620 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 21:32:12,556 - INFO - Use pytorch device_name: cpu
+2025-07-22 21:32:12,557 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 21:32:16,919 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-22 21:32:18,366 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-22 21:32:19,548 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-22 21:32:20,188 - INFO - Use pytorch device_name: cpu
+2025-07-22 21:32:20,189 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 21:32:24,164 - INFO - Use pytorch device: cpu
+2025-07-22 21:32:24,728 - INFO - ChromaDB initialized.
+2025-07-22 21:32:53,459 - INFO - Ollama connected: Hello! It's nice to meet you. Is there something I

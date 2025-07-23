@@ -1,0 +1,70 @@
+{
+    "Patient_ID": "Hazel Morgan",
+    "Metadata": {
+        "Age": 33,
+        "Gender": "Male",
+        "Ethnicity": "Asian",
+        "Marital_Status": "Married",
+        "Occupation_Category": "Desk Job",
+        "Job_Title": "Architect",
+        "Weight_Current_Kg": 88,
+        "Weight_Lowest_Kg": 79,
+        "Weight_Highest_Kg": 94,
+        "Weight_Status": "going down",
+        "BMI_Category": "Overweight",
+        "Previous_Hernia_Repairs": [
+            {
+                "Year": 2015,
+                "Hospital": "Regional Specialist Unit, Manchester",
+                "Type": "Laparoscopic (Keyhole) Repair",
+                "Mesh_Used": "No",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            }
+        ],
+        "Medical_History": {
+            "Prior_Major_Surgeries": [],
+            "Diabetes": "No",
+            "Smoking_Status": "No (former smoker, quit 7 years ago)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "Yes",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {},
+        "QoL_Areas_Affected": [
+            "Symptoms",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "Narratives": {
+        "Symptoms_Restrictions_Activities": "\"Honestly, this hernia is a real pain. It's not like I'm completely incapacitated, but it's a constant bother. As an architect, I need to be on-site sometimes, climbing stairs, bending down to look at details \u2013 and that's when I really feel it. It's not always a sharp pain, more of a dragging ache, especially after a long day on my feet. I used to enjoy going for hikes on the weekend, but now even a moderate walk leaves me feeling pretty sore. And lifting anything remotely heavy? Forget about it! Even carrying my architectural plans can sometimes trigger this really uncomfortable throbbing feeling. It's just...limiting. It makes me think twice about doing things.\"\n",
+        "Symptoms_Adaptations_Face": "\"Honestly, this hernia has been a real pain. I used to enjoy going for longer walks to sketch buildings, but now, after about half an hour, I feel this nagging pull in my abdomen. So I've had to cut those down significantly. I've also started wearing these compression shorts, which help a little with the discomfort, but they're not the most stylish thing for an architect! I try to avoid lifting anything heavier than my laptop bag now, and at work, I make a conscious effort to sit with good posture. Slouching just makes it worse. The most frustrating thing is probably the effect on my relationship with my wife. I feel self-conscious about it, and intimacy just isn't the same. I\u2019ve also had to ask her to do more of the heavy lifting around the house, like carrying groceries, which I hate doing. It's embarrassing, especially since I had it fixed once before.\"\n",
+        "Symptoms_Affect_Movement": "\"Honestly, it's just a constant awareness. Bending over is a nightmare. I feel this really uncomfortable pulling, like something's going to rip, so I have to be super careful, almost like I'm moving in slow motion. Twisting is even worse; sometimes it\u2019s a sharp jolt of pain. Getting out of bed in the morning is really stiff, and standing up straight takes a few seconds. Walking's okay on flat ground, but if I'm going uphill or carrying anything, it starts to feel really heavy and fragile. I'm definitely more conscious of how I move now than I ever was before.\"\n",
+        "Symptoms_Pain_Coping": "\"Honestly, it's a constant awareness, you know? It's not excruciating pain all the time, but more like a nagging discomfort. When it flares up, I usually reach for some paracetamol or ibuprofen \u2013 that takes the edge off. I've found that if I'm sitting for too long, I need to get up and move around, or try to adjust my posture, kind of arch my back a bit, to relieve the pressure. Sometimes, especially if I've been doing something strenuous, I can feel it bulging more, and I've learned how to gently push it back in \u2013 the doctor showed me how. Taking frequent rests throughout the day helps a lot. I also try to be mindful of my breathing, especially when I feel it acting up \u2013 slow, deep breaths seem to calm it down a little. Being an architect means long hours at my desk, so I try to get up and walk around every hour or so. I'm just trying to manage it as best as I can until we figure out the next step.\"\n",
+        "BodyImage_SelfConscious_Embarrassed": "N/A",
+        "BodyImage_Others_Noticing": "N/A",
+        "MentalHealth_Affected_Elaborate": "N/A",
+        "MentalHealth_Coping_Strategies": "N/A",
+        "Relationships_Social_Affected": "\"It's embarrassing, really. I used to be so active. Before this hernia flared up again, I loved playing five-a-side football with my mates on Wednesdays. Now, I can barely manage a slow walk without feeling that dull ache. I've had to drop out, and honestly, it makes me feel so\u2026isolated. Like I'm missing out on a big part of their lives.\n\nAnd it's not just the football. My wife and I used to enjoy going out to restaurants, dancing, just being out and about. Now, I'm constantly thinking about whether the seating will be comfortable, if I'll need to excuse myself frequently to \"adjust,\" and frankly, the pain just kills the mood. I feel like I'm being a burden on her; she's constantly checking if I'm okay and I hate that. I just want things to go back to how they were. It affects our intimacy too, which is\u2026well, it's personal, but let's just say the hernia is not a good addition to our love life. It feels like it's stealing something from both of us.\"\n",
+        "Relationships_Intimate_Affected": "\"Honestly, the hernia has really put a strain on my relationship with my partner. I feel incredibly self-conscious about it, especially during intimate moments. The thought of any pressure or movement in that area makes me hesitant and just...awkward. I feel less desirable, and it's definitely led to a loss of spontaneity. I worry about causing pain or discomfort, which leads to guilt, like I'm not fully present or able to enjoy the moment. We used to be so carefree and now it feels like there's this invisible barrier between us because of it.\"\n",
+        "Employment_What_Do_You_Do": "N/A",
+        "Employment_Ability_To_Work_Affected": "N/A",
+        "Employment_Changed_Work": "N/A",
+        "Employment_Financial_Affected": "N/A",
+        "SharedDecisionMaking_Questions": "Okay, here's a potential patient quote, crafted based on the provided information, reflecting their likely concerns:\n\n\"Okay, so I understand I have an abdominal wall hernia and need surgery. I'm a bit concerned, especially since I had a laparoscopic repair before that failed. My main questions are: 1) What are the specific risks for *me*, considering I'm relatively young and had a previous repair, and what kind of mesh, if any, would you be using this time? 2) How long is the recovery *really* going to be? I'm an architect and need to be back on my feet and able to manage site visits \u2013 what sort of timeline are we talking about before I can fully return to work? 3) What are the chances of this hernia recurring again, and is there anything I can do to minimise that risk after the surgery? 4) And finally, will this surgery leave a noticeable scar? I'm self-conscious about that, and I'd like to know what to expect aesthetically.\"\n",
+        "SharedDecisionMaking_Hopes": "\"Honestly, this hernia is just a pain, literally. It's not just the discomfort, but it's affecting everything. I'm an architect, and a lot of my job involves site visits, being on my feet, sometimes even climbing around. I'm worried about it all the time. I want to be able to do my job without constantly thinking, 'Is this going to make it worse?' And it's affecting my social life too; I find myself avoiding activities because I'm self-conscious. Plus, it's not exactly doing wonders for my confidence with my partner. I know I'm a bit overweight, but this just makes me feel even more unattractive. So, I guess what I really hope for from this surgery is to get rid of the pain, be able to fully participate in my work and social life again without feeling self-conscious, and honestly, just feel like myself again. I want to forget this hernia even existed.\"\n",
+        "SharedDecisionMaking_Matters_To_You": "\"Honestly, what matters most to me is getting back to feeling like myself again. This hernia\u2026 it's like a constant drag. I worked really hard to quit smoking seven years ago, and I've tried to stay active, but the pain and discomfort are just wearing me down. As an architect, I need to be able to focus and move around construction sites without worrying about it. And more than that, I just want to feel good again, both physically and\u2026 well, you know\u2026 socially. I don't want this thing hanging over my head.\"\n"
+    }
+}

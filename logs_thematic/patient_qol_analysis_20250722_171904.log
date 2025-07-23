@@ -1,0 +1,15 @@
+2025-07-22 17:19:04,299 - INFO - Configuration and logging setup complete.
+2025-07-22 17:19:04,300 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 17:19:07,006 - INFO - Use pytorch device_name: cpu
+2025-07-22 17:19:07,006 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 17:19:10,036 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-22 17:19:11,062 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-22 17:19:12,100 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-22 17:19:12,779 - INFO - Use pytorch device_name: cpu
+2025-07-22 17:19:12,780 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 17:19:15,236 - INFO - Embedding function loaded: BAAI/bge-large-en-v1.5
+2025-07-22 17:19:16,407 - INFO - Use pytorch device: cpu
+2025-07-22 17:19:16,596 - INFO - Reranker model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-07-22 17:19:16,922 - INFO - Loaded existing ChromaDB from ./chroma_db with 69 documents.
+2025-07-22 17:19:16,922 - INFO - Attempting to connect to Ollama at: http://localhost:11434
+2025-07-22 17:19:25,838 - INFO - Ollama connection successful. Test response: Hello! It's nice to meet you. Is there something I...

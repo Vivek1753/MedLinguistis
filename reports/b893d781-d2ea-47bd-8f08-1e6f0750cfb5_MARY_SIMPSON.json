@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "Patient ID": "MARY SIMPSON",
+        "Name": "MARY SIMPSON",
+        "Age": 60,
+        "Gender": "Female",
+        "Ethnicity": "N/A",
+        "Marital Status": "N/A",
+        "Occupation": {
+            "Job Title": "N/A",
+            "Category": "N/A"
+        },
+        "Previous Hernia Repairs": [],
+        "Medical History": {},
+        "Medications": {},
+        "Able to Lie Flat Comfortably": "N/A",
+        "QoL Areas Affected": [
+            "None specified"
+        ]
+    },
+    "detected_themes": {
+        "Detected Themes": [
+            "Body Image",
+            "Interpersonal Relationships"
+        ],
+        "Confidence Scores": {
+            "Body Image": 0.5178912281990051,
+            "Interpersonal Relationships": 0.6385815143585205
+        }
+    },
+    "sentiment_and_emotion_analysis": {
+        "Overall Sentiment": {
+            "Label": "neutral",
+            "Score": 0.8121699094772339
+        },
+        "Top Emotions": {
+            "optimism": 0.6531586647033691,
+            "sadness": 0.19566571712493896,
+            "anger": 0.13116995990276337,
+            "joy": 0.02000572346150875
+        }
+    },
+    "zero_shot_classification": {
+        "Frustration or irritability": 0.9794802665710449,
+        "Feeling overwhelmed": 0.9682441353797913,
+        "Social withdrawal": 0.8961061835289001
+    },
+    "qol_summary": "**Patient's Overall Quality of Life Summary**\n\nBased on the provided patient narrative excerpts, I will summarize the patient's concerns across the five QoL themes:\n\n**Physical Symptoms and Functional Limitations**: The patient experiences significant pain when walking outside, which limits their ability to engage in daily activities. They also mention having difficulty working due to physical limitations.\n\nExample: \"yesihavebeencarefulaboutwalkingoutsideasigetalotofpain\"\n\n**Body Image Concerns**: Not explicitly mentioned in the narrative excerpts for this theme.\n\n**Mental Health Challenges**: The patient describes feelings of frustration, overwhelm, and low mood. They also mention experiencing anxiety, hopelessness, and rumination.\n\nExamples: \"eellikeiaminaneverendingnegativesituationsinceihavehadthisihavebeengoingoutwithfriendslessiusedtoworkl\", \"sedtoworklookingafterchildrenwithchallengingbehaviorsthicanenjoylifeagain\"\n\n**Impact on Interpersonal Relationships**: The patient's mental health struggles have affected their relationships. They mention going out with friends less and having difficulty enjoying life due to the challenges they face.\n\nExample: \"eellikeiaminaneverendingnegativesituationsinceihavehadthisihavebeengoingoutwithfriendsless\"\n\n**Employment and Financial Concerns**: The patient's physical limitations have impacted their ability to work, leading to financial strain. They mention having difficulty looking after children with challenging behavior.\n\nExample: \"sedtoworklookingafterchildrenwithchallengingbehaviorsthicanenjoylifeagain\"\n\nOverall, the patient is struggling with physical symptoms, mental health challenges, and difficulties in interpersonal relationships and employment due to their condition."
+}

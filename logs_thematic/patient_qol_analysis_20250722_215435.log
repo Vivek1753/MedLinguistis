@@ -1,0 +1,14 @@
+2025-07-22 21:54:35,173 - INFO - Configuration and logging setup complete.
+2025-07-22 21:54:35,174 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 21:54:38,470 - INFO - Use pytorch device_name: cpu
+2025-07-22 21:54:38,471 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 21:54:41,301 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-22 21:54:42,730 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-22 21:54:44,400 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-22 21:54:45,291 - INFO - Use pytorch device_name: cpu
+2025-07-22 21:54:45,291 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-22 21:54:50,031 - INFO - Use pytorch device: cpu
+2025-07-22 21:54:50,749 - INFO - ChromaDB initialized.
+2025-07-22 21:54:59,477 - INFO - Ollama connected: Hi! It's nice to meet you. Is there something I ca
+2025-07-22 21:55:51,708 - INFO - 69 documents added to vectorstore.
+2025-07-22 21:55:53,196 - INFO - Rag system initialized for patient Zoe Bell. Generating comprehensive summary...

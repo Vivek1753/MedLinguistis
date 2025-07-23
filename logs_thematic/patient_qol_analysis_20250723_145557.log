@@ -1,0 +1,14 @@
+2025-07-23 14:55:57,538 - INFO - Configuration and logging setup complete.
+2025-07-23 14:55:57,539 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-23 14:56:01,341 - INFO - Use pytorch device_name: cpu
+2025-07-23 14:56:01,341 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 14:56:05,277 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
+2025-07-23 14:56:06,597 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
+2025-07-23 14:56:07,917 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu
+2025-07-23 14:56:08,962 - INFO - Use pytorch device_name: cpu
+2025-07-23 14:56:08,962 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-07-23 14:56:13,964 - INFO - Use pytorch device: cpu
+2025-07-23 14:56:14,567 - INFO - ChromaDB initialized.
+2025-07-23 14:56:23,170 - INFO - Ollama connected: Hi! It's nice to meet you. Is there something I ca
+2025-07-23 14:57:20,521 - INFO - 32 documents added to vectorstore.
+2025-07-23 14:59:04,128 - INFO - Report saved successfully: reports\af9d66de-3bee-4eee-95d7-02d15245d382_MARY_SIMPSON.json

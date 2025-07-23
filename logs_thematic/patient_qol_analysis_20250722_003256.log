@@ -1,0 +1,26 @@
+2025-07-22 00:32:56,913 - INFO - Configuration and logging setup complete.
+2025-07-22 00:32:56,915 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:32:56,941 - INFO - Configuration and logging setup complete.
+2025-07-22 00:32:56,943 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:32:57,095 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:32:57,107 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:32:57,825 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:32:57,832 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:32:57,835 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:32:57,841 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:32:57,861 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:32:57,871 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:33:02,968 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:33:02,969 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:33:02,970 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:33:03,052 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:33:03,053 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:33:03,054 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:35:10,462 - INFO - Original number of narratives: 100
+2025-07-22 00:35:10,462 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:35:10,475 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:35:10,475 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:35:11,199 - INFO - Original number of narratives: 100
+2025-07-22 00:35:11,199 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:35:11,214 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:35:11,214 - INFO - Number of samples after oversampling: 9475

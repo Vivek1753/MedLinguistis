@@ -1,0 +1,143 @@
+2025-07-22 00:30:06,170 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,171 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,343 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,511 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,513 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,520 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,520 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,584 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,585 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,591 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,592 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,611 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,614 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,662 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,666 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,731 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,742 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,744 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,745 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,793 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,811 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,811 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,816 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,816 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,878 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,890 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:06,903 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:06,927 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:06,950 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,950 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:06,953 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,965 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:06,976 - INFO - Configuration and logging setup complete.
+2025-07-22 00:30:06,977 - INFO - Global MultiLabelBinarizer initialized.
+2025-07-22 00:30:07,071 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:07,122 - INFO - Initializing tokenizer for thematic model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2025-07-22 00:30:07,190 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,190 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,200 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,200 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,225 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,226 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,269 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,279 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,284 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,295 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,308 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,325 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,326 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,333 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,359 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,407 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,419 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,447 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,486 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,493 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,517 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,582 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,591 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,617 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,703 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,713 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,741 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:07,854 - INFO - Loading data from data/patients_100a.json
+2025-07-22 00:30:07,865 - INFO - Dataset loaded successfully! Total patients: 100
+2025-07-22 00:30:07,896 - INFO - Combined narrative created from relevant fields.
+2025-07-22 00:30:12,380 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:12,446 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:12,513 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:13,374 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:13,432 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:13,503 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:13,646 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:13,666 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:13,679 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:13,681 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:13,683 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:13,685 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:13,691 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:13,701 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:13,703 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:13,753 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:13,782 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:13,800 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:14,442 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:14,472 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:14,504 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:14,946 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:14,993 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:15,005 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:15,433 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:15,453 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:15,464 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:15,466 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:15,492 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:15,514 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:30:15,560 - INFO - Narratives preprocessed and labels assigned for main dataset.
+2025-07-22 00:30:15,591 - INFO - Example multi-labels for first patient: [1 1 1 1 1]
+2025-07-22 00:30:15,620 - INFO - Class distribution of 'dominant_label_id' before oversampling: Counter({1: 25, 0: 23, 2: 19, 3: 17, 4: 16})
+2025-07-22 00:32:13,844 - INFO - Original number of narratives: 100
+2025-07-22 00:32:13,847 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:13,918 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:13,943 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:14,560 - INFO - Original number of narratives: 100
+2025-07-22 00:32:14,566 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:14,585 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:14,587 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:15,496 - INFO - Original number of narratives: 100
+2025-07-22 00:32:15,511 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:15,582 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:15,589 - INFO - Original number of narratives: 100
+2025-07-22 00:32:15,591 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:15,595 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:15,609 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:15,610 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:25,331 - INFO - Original number of narratives: 100
+2025-07-22 00:32:25,331 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:25,346 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:25,346 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:25,791 - INFO - Original number of narratives: 100
+2025-07-22 00:32:25,793 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:25,806 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:25,807 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:30,266 - INFO - Original number of narratives: 100
+2025-07-22 00:32:30,267 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:30,280 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:30,280 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:30,383 - INFO - Original number of narratives: 100
+2025-07-22 00:32:30,384 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:30,398 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:30,399 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:30,413 - INFO - Original number of narratives: 100
+2025-07-22 00:32:30,413 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:30,425 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:30,427 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:30,833 - INFO - Original number of narratives: 100
+2025-07-22 00:32:30,833 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:30,845 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:30,846 - INFO - Number of samples after oversampling: 9475
+2025-07-22 00:32:31,224 - INFO - Original number of narratives: 100
+2025-07-22 00:32:31,226 - INFO - Number of chunks for classification after splitting: 7217
+2025-07-22 00:32:31,243 - INFO - Class distribution after oversampling: Counter({np.int64(0): 1895, np.int64(2): 1895, np.int64(1): 1895, np.int64(4): 1895, np.int64(3): 1895})
+2025-07-22 00:32:31,246 - INFO - Number of samples after oversampling: 9475

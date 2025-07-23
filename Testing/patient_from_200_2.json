@@ -1,0 +1,90 @@
+{
+    "Patient_ID": "Kayla Watson",
+    "Metadata": {
+        "Age": 37,
+        "Gender": "Male",
+        "Ethnicity": "African",
+        "Marital_Status": "Single",
+        "Occupation_Category": "Unemployed",
+        "Job_Title": "Unemployed",
+        "Weight_Current_Kg": 124,
+        "Weight_Lowest_Kg": 122,
+        "Weight_Highest_Kg": 124,
+        "Weight_Status": "staying the same",
+        "BMI_Category": "Obese",
+        "Previous_Hernia_Repairs": [
+            {
+                "Year": 2020,
+                "Hospital": "Private Clinic, Sheffield",
+                "Type": "Laparoscopic (Keyhole) Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            },
+            {
+                "Year": 2009,
+                "Hospital": "Large NHS Hospital, Leeds",
+                "Type": "Open Repair",
+                "Mesh_Used": "No",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            },
+            {
+                "Year": 2002,
+                "Hospital": "Regional Specialist Unit, Manchester",
+                "Type": "Laparoscopic (Keyhole) Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            }
+        ],
+        "Medical_History": {
+            "Prior_Major_Surgeries": [],
+            "Diabetes": "No",
+            "Smoking_Status": "No (never smoked)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "Vitamin D": "Daily",
+            "Omeprazole": "20mg, once a day"
+        },
+        "QoL_Areas_Affected": [
+            "Employment",
+            "Symptoms",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "Narratives": {
+        "Symptoms_Restrictions_Activities": "Okay, here's a patient narrative, focusing on the specific details provided and aiming for realistic and varied limitations:\n\n\"It's just...frustrating, you know? Being unemployed, I should be able to use this time to get things done around the house, maybe finally start that garden my wife's been wanting. But this hernia... some days it's just a constant dragging feeling, like a weight pulling me down. Other days, it's fine until I try to bend over to pick something up \u2013 *bam*, a sharp pain that takes my breath away. Even walking the dog gets difficult sometimes. I used to love going for long walks, but now I have to cut them short because of the discomfort. And forget about helping my son move furniture, or anything like that. It's embarrassing, really. I feel useless, and I'm worried about how it's affecting things with my wife, too.\"\n",
+        "Symptoms_Adaptations_Face": "\"It's a constant thing, this hernia. Being unemployed, you'd think I could just rest all the time, but that's not life. Simple things are a hassle. Like, I can't just bend over to pick something up anymore. I have to squat, real slow, and brace myself. Forget about playing with my kids the way I used to. No more roughhousing. It\u2019s hard on them, and honestly, on me. I feel like I'm missing out. I wear this support binder most of the day now; it helps a little, but it's uncomfortable as hell, especially when it's hot. My girlfriend does most of the grocery shopping and carries the bags. I used to do all that stuff, felt good to be helpful. Now, I mostly just feel\u2026 limited. And intimacy? Let\u2019s just say that's become a whole different level of planning and figuring out what positions don't hurt. It's awkward. We're trying, but\u2026 it's not the same.\"\n",
+        "Symptoms_Affect_Movement": "Okay, here's a patient narrative based on the information provided, focusing on the impact of the hernia on movement:\n\n\"Honestly, it feels like everything I do now is affected by this thing. Bending over is a nightmare. It's like a sharp jolt, followed by this dull, pulling ache. I avoid bending at all costs if I can. Twisting is even worse; there's this feeling of something shifting inside, like things are out of place, and it's really uncomfortable.\n\nStanding up from sitting or lying down? Forget about it being smooth. I have to brace myself and go really slowly, because there's this initial sharp pain, then this awful stiffness kicks in. Getting out of bed is probably the worst part of the day; I feel so fragile, like one wrong move and something will tear.\n\nEven walking is different. I can't just stride out like I used to. I find myself shuffling along, taking smaller steps, because every time I try to walk normally, I get this pulling sensation. It\u2019s a constant awareness, a nagging reminder that it's there, and it really limits what I can do.\"\n",
+        "Symptoms_Pain_Coping": "Okay, here's a patient narrative based on the information provided, focusing on coping mechanisms for hernia pain:\n\n\"It's just\u2026constant, you know? Some days are better than others, but it's always there, this nagging ache. I try to ignore it as much as I can, especially since I'm unemployed now, and stress makes it worse. If it gets really bad, I'll take paracetamol; sometimes ibuprofen if the paracetamol isn\u2019t cutting it. I try not to take too much though. I spend a lot of time lying down, because that's the only position where I\u2019m completely comfortable. When I'm up and about, I've learned to kind of hunch over a bit, which seems to take some of the pressure off the bulge. I also try to gently push it back in sometimes, when it's sticking out more than usual - the doctor showed me how to do that safely. Deep breaths help a little too, like slow, long breaths. They don't take the pain away, but they help me relax and stop focusing on it so much. It really just wears you down after a while.\"\n",
+        "BodyImage_SelfConscious_Embarrassed": "N/A",
+        "BodyImage_Others_Noticing": "N/A",
+        "MentalHealth_Affected_Elaborate": "N/A",
+        "MentalHealth_Coping_Strategies": "N/A",
+        "Relationships_Social_Affected": "\"It's really put a damper on things, you know? Before the hernia got this bad, I used to be pretty active. I loved playing five-a-side football with my mates twice a week. Now? Forget about it. I can barely walk to the shops without feeling that familiar bulge and ache.\n\nMy social life has shrunk, definitely. I\u2019ve stopped going to the pub with the lads after the game because I just can't stand for that long anymore, and it feels embarrassing to have to keep sitting down while everyone else is standing. And the jokes...I know they're just teasing, but it gets old.\n\nIt's not just the football. I used to help out at my local community garden, weeding and planting. Now, bending over is out of the question. I feel like I'm letting everyone down.\n\nHonestly, I feel like a burden. My girlfriend has been amazing, but I see her doing more and more around the house, and I feel useless. Sex? That's become a minefield. I'm constantly worried about the pain, and it's just killed the mood. It's hard to be intimate when you feel like you're broken. I just feel so isolated.\"\n",
+        "Relationships_Intimate_Affected": "\"Sex? Honestly, it's just\u2026 awkward now. I feel so self-conscious about my stomach, about the bulge. I know it's there, and I can't help but think my partner is noticing it too. It's not just physical discomfort, although there's that too. It's this feeling of being less desirable. I find myself being hesitant to initiate anything, and the spontaneity is completely gone. It puts a strain on the relationship, and I feel guilty, like I'm not the partner I should be. I hate that this hernia is affecting something so important to us.\"\n",
+        "Employment_What_Do_You_Do": "Unemployed",
+        "Employment_Ability_To_Work_Affected": "N/A",
+        "Employment_Changed_Work": "N/A",
+        "Employment_Financial_Affected": "N/A",
+        "SharedDecisionMaking_Questions": "Okay, here's a patient narrative, framed as a direct quote with 3-5 specific questions relevant to the provided patient information:\n\n\"So, doctor, I've had this hernia repaired a few times now and it's really getting me down. I'm worried about going through this again, especially at my age. I guess what I really want to know is this: Given I've already had three surgeries, and I'm a bit overweight, *what are the biggest risks I'm facing with another operation, especially long-term complications*? Also, *how long will it likely take to recover fully this time, and what kind of pain management plan will you have in place to ensure I'm comfortable*? And finally, *is there anything we can do to improve the cosmetic outcome, and realistically, what are the chances of this thing coming back again*? My last question is, *would this procedure actually improve the quality of my sexual relationships and social life*?\"\n",
+        "SharedDecisionMaking_Hopes": "\"Look, I'm 37 years old and I feel like I'm falling apart. This hernia\u2026it's more than just a lump. It\u2019s affecting everything. I can't even look for work properly because I'm always worried about it getting worse. The pain is there, nagging at me, and it's killed any sort of relationship I used to have.\n\nI've had this fixed before, twice with keyhole surgery and mesh, and once open without mesh. Honestly, I'm scared this one will just come back *again*. But I'm hoping this surgery, this time, will *finally* be the end of it. I just want the pain gone so I can sleep and maybe get back to just *living* without feeling this constant fear. I'm unemployed, and I'd like to be able to get a job without worrying about hurting myself. I feel like my body has just given up on me and I'd like to feel like I have my life back again. I want to be able to go out with my friends again, be able to walk around and be more active. I hope this surgery can give me all that back.\"\n",
+        "SharedDecisionMaking_Matters_To_You": "\"Honestly, being unemployed because of this hernia is killing me. It's not just about the money, though that's a huge part of it. It's about feeling like I'm useless. I want to be able to provide for my family, you know? And it affects everything else too. I can't even think about dating, or even being social when I feel like this. Getting this fixed so I can get back to work and feel like myself again is what matters most.\"\n"
+    }
+}

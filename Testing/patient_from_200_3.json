@@ -1,0 +1,63 @@
+{
+    "Patient_ID": "Mason Wright",
+    "Metadata": {
+        "Age": 34,
+        "Gender": "Non-Binary",
+        "Ethnicity": "Caucasian",
+        "Marital_Status": "Divorced",
+        "Occupation_Category": "Desk Job",
+        "Job_Title": "Accountant",
+        "Weight_Current_Kg": 63,
+        "Weight_Lowest_Kg": 62,
+        "Weight_Highest_Kg": 65,
+        "Weight_Status": "going down",
+        "BMI_Category": "Normal",
+        "Previous_Hernia_Repairs": [],
+        "Medical_History": {
+            "Prior_Major_Surgeries": [],
+            "Diabetes": "No",
+            "Smoking_Status": "No (never smoked)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "Omeprazole": "20mg, once a day"
+        },
+        "QoL_Areas_Affected": [
+            "Mental Health",
+            "Body Image"
+        ]
+    },
+    "Narratives": {
+        "Symptoms_Restrictions_Activities": "N/A",
+        "Symptoms_Adaptations_Face": "N/A",
+        "Symptoms_Affect_Movement": "N/A",
+        "Symptoms_Pain_Coping": "N/A",
+        "BodyImage_SelfConscious_Embarrassed": "\"I absolutely hate how this hernia looks. It's like this weird, lopsided bulge that just...sits there. I feel so ashamed of it. It ruins my figure completely. I constantly worry about people noticing it, especially in fitted clothes. I feel like I'm hiding something, and honestly, sometimes I feel like I look pregnant, which is just...awful. I can't stand the way it makes my clothes fit, or how it distorts my whole shape. It's completely disfigured me, and I'm so self-conscious about how others perceive me because of it.\"\n",
+        "BodyImage_Others_Noticing": "\"Oh god, yes, I absolutely feel like people notice it. It's hard not to. It's like this\u2026 bulge. I\u2019ve definitely caught people staring, especially strangers. Once, someone even asked me if I was pregnant! I wanted to crawl under a rock. It\u2019s just\u2026 humiliating, you know? I already struggle with my body image, being non-binary and all, and this just makes it a hundred times worse. It makes me feel like I'm being constantly scrutinized and judged. I feel so embarrassed to be seen, like I want to shrink away and disappear.\"\n",
+        "MentalHealth_Affected_Elaborate": "\"Honestly, this hernia... it's just gotten under my skin. It sounds silly, I know, just a lump, but it's completely messed with my head. I get so *irritable* now, snapping at people for no reason. It's this constant low-level hum of anxiety, you know? Like something bad is always about to happen. My mood is just... consistently *low*. I feel\u2026 *trapped* in my own body, and that sounds so dramatic, but it's true. I catch myself staring in the mirror, picking at it, just feeling disgusted. It's not how I see myself, not *who* I am. And I used to love going out, trying new things, but now... I just don't. What's the point? Everything feels\u2026 tainted, somehow. I try to focus at work, but the thoughts just keep circling back, like a broken record. I'm an accountant, numbers are supposed to make sense! But this\u2026 this doesn't. I feel like I'm losing myself, little by little. Just... losing it.\"\n",
+        "MentalHealth_Coping_Strategies": "\"Honestly, it's been rough. My mental health has taken a real hit. I find myself withdrawing from social situations a lot because I'm just so self-conscious about my body image now. It's hard to explain, but even though my BMI is normal, this hernia just...changes how I see myself. To cope, sometimes I try to distract myself with work, pouring all my energy into accounting to avoid thinking about it. Other times, it's the opposite \u2013 I get really irritable and emotionally volatile, snapping at people for no reason. I've also been sucked into rabbit holes of online information, trying to understand everything about hernias, which probably makes it worse, but I feel like I need to know. I\u2019m trying to talk to my partner about it more, but it's still difficult to fully express how much it's affecting me.\"\n",
+        "Relationships_Social_Affected": "N/A",
+        "Relationships_Intimate_Affected": "N/A",
+        "Employment_What_Do_You_Do": "N/A",
+        "Employment_Ability_To_Work_Affected": "N/A",
+        "Employment_Changed_Work": "N/A",
+        "Employment_Financial_Affected": "N/A",
+        "SharedDecisionMaking_Questions": "Okay, here's a potential patient narrative with questions, focusing on the provided details:\n\n\"So, I'm a little nervous about the surgery, to be honest. I'm wondering, since I'm only 34, what are the *specific* risks I should be aware of at my age? I've never had surgery before. Also, how long realistically will it take before I can get back to work at my desk and feel like myself again? Being an accountant, I need to be sharp and focused. Will there be any visible scarring afterwards, and what can be done to minimize it? And finally, what are the chances of the hernia coming back, even with the surgery? What can I do to prevent it from happening again?\"\n",
+        "SharedDecisionMaking_Hopes": "\"Honestly, this hernia is just... a constant presence. It's not always painful, but it's always *there*. I'm an accountant, so I'm sitting most of the day, and it makes me so self-conscious. My mental health has definitely taken a hit worrying about how it looks and feels. I'm hoping this surgery will just make it go away. I want to stop thinking about it all the time. I want to feel comfortable in my body again, and not be constantly adjusting myself or feeling like everyone's staring. I'm not asking for perfection, just... for it to be gone and for me to feel like myself again.\"\n",
+        "SharedDecisionMaking_Matters_To_You": "\"Honestly, it's the mental toll this hernia is taking on me that's really getting to me. I know it sounds silly, but I hate looking at myself in the mirror. My body image has just tanked. And then, as an accountant, I need to be sharp and focused. This constant awareness of the bulge, the twinges of pain\u2026 it's distracting. I need to be able to concentrate on my work without feeling self-conscious or uncomfortable, so I can excel in my career again.\"\n"
+    }
+}
