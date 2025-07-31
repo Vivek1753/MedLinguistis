@@ -56,7 +56,7 @@ python model.py
 - Note: These directories are excluded from GitHub using `.gitignore`
 
 Option B: Download Models from Google Drive
-- Download the required models from the following link and place them in the appropriate folders: https://drive.google.com/your_model_download_link_here
+- Download the required models from the following link and place them in the appropriate folders: https://drive.google.com/drive/folders/1rgA-oLbE2fkktZGeBsPFjGqiMPFYl5Vi?usp=sharing
 
 ### 5. Run the FastAPI Application
 ``` bash
