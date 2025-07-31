@@ -46,8 +46,9 @@ pip install -r requirements.txt
 ```
 ### 4. Download and Setup Models
 - You have two options:
-- Option A: Offline Setup
-If you're working in a fully offline environment:
+  
+Option A: Offline Setup
+- If you're working in a fully offline environment:
 ```bash
 python model.py
 ```
