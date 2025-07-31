@@ -1,23 +1,18 @@
-from fastapi import FastAPI, File, UploadFile, Request
-from fastapi.responses import JSONResponse
-import uvicorn
-import pandas as pd
-import json
 import os
-import shutil
-from pathlib import Path
+import json
 import torch
+import shutil
+import uvicorn
 import logging
-from io import BytesIO
+import pandas as pd
+from fastapi.responses import JSONResponse
+from fastapi import FastAPI, Request
 from sentence_transformers import SentenceTransformer
 # Prepare RAG docs
 from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from langchain_ollama import OllamaLLM
 
-
-# Import all your pipeline modules (classes/functions) here
 from pipeline import (
     Config,
     set_seed,
@@ -44,6 +39,7 @@ mlb_thematic.fit([Config.QOL_THEMES])
 try:
     thematic_model = AutoModelForSequenceClassification.from_pretrained(Config.MODEL_SAVE_DIR)
     thematic_model.to('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"DEBUG: Thematic model loaded from {Config.MODEL_SAVE_DIR}")
 except Exception:
     thematic_model = AutoModelForSequenceClassification.from_pretrained(
         Config.THEMATIC_MODEL_NAME,
@@ -52,6 +48,8 @@ except Exception:
         ignore_mismatched_sizes=True
     )
     thematic_model.to('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"DEBUG: Thematic model loaded from HuggingFace: {Config.THEMATIC_MODEL_NAME}")
+
 try:
     sentence_embedder = SentenceTransformer(Config.EMBEDDING_MODEL_NAME)
     logger.info("SentenceTransformer for keyword expansion loaded.")
@@ -76,27 +74,6 @@ rag_system = RAGSystem(
     reranker_model_name=Config.RERANKER_MODEL_NAME
 )
 
-# ollama_base_url=Config.OLLAMA_BASE_URL,
-
-# @app.post("/generate_report/")
-# async def generate_qol_report(file: UploadFile = File(...)):
-#     if not file.filename.endswith('.json'):
-#         return JSONResponse(status_code=400, content={"error": "Only JSON files are supported."})
-
-#     try:
-#         # Load and parse uploaded JSON file directly from UploadFile
-#         raw_bytes = await file.read()
-#         patient_data = json.load(BytesIO(raw_bytes))
-
-#         # Convert to single-row DataFrame (if it's a dict of one patient)
-#         if isinstance(patient_data, dict):
-#             df = pd.DataFrame([patient_data])
-#         else:
-#             df = pd.DataFrame(patient_data)  # In case it's already a list
-
-#         logger.info(f"Patient JSON loaded. Columns: {df.columns.tolist()}")
-
-
 @app.post("/generate_report/")
 async def generate_qol_report(request: Request):
     try:
@@ -120,14 +97,6 @@ async def generate_qol_report(request: Request):
         df_prepared, _, _ = data_processor.prepare_data_for_classification(df_extracted)
         logger.info(f"Final dataset prepared with {len(df_prepared)} patients and {len(df_prepared['preprocessed_narrative'])} narratives.")
         logger.info(f"Example preprocessed narrative for first patient: {df_prepared['preprocessed_narrative']}")
-
-            # # Apply sentiment/emotion + mental health pattern
-            # df_prepared['sentiment_and_emotions'] = df_prepared['preprocessed_narrative'].apply(
-            #     nlp_analysis_service.analyze_sentiment_and_emotions_of_chunks
-            # )
-            # df_prepared['mental_health_linguistic_signals'] = df_prepared['preprocessed_narrative'].apply(
-            #     nlp_analysis_service.identify_mental_health_patterns_advanced
-            # )
 
         # Apply sentiment and emotion analysis
         logger.info("Applying sentiment and emotion analysis to narrative...")
@@ -188,20 +157,6 @@ async def generate_qol_report(request: Request):
             length_function=lambda text: len(thematic_tokenizer.encode(text, add_special_tokens=True)),
         )
 
-        # for _, row in df_prepared.iterrows():
-        #     chunks = splitter.split_text(row['preprocessed_narrative'])
-        #     for i, chunk in enumerate(chunks):
-        #         documents_for_vectorstore.append(Document(
-        #             page_content=chunk,
-        #             metadata={
-        #                 "patient_id": row['Patient_ID'],
-        #                 "themes": ", ".join(row['labels_as_names']),
-        #                 "chunk_index": i
-        #             }
-        #         ))
-
-        # rag_system.populate_vectorstore(documents_for_vectorstore)
-
         for index, row in df_prepared.iterrows():
             original_narrative = row['preprocessed_narrative']
             patient_id = row['Patient_ID']
@@ -246,8 +201,6 @@ async def generate_qol_report(request: Request):
         else:
             logger.error("No documents generated for vectorstore. Cannot populate. Check data loading and processing in prior cells.")
 
-        # Generate report (first patient for now)
-        # sample_patient_id = df_prepared['Patient_ID'].iloc[0]
         report_generator = PatientReportGenerator(
             thematic_model=thematic_model,
             thematic_tokenizer=thematic_tokenizer,
@@ -262,18 +215,13 @@ async def generate_qol_report(request: Request):
             rag_system=rag_system,
             all_documents=documents_for_vectorstore
         )
-        # first_patient_row = df_prepared.iloc[0]
-        # report = report_generator.generate_comprehensive_patient_report(
-        #     patient_row=first_patient_row,
-        #     rag_system=rag_system
-        # )
 
         print(f"patient full report: {report}")
 
         return JSONResponse(
             status_code=200,
             content={
-                "patient_id": df_prepared['Patient_ID'].iloc[0],
+                "Patient_ID": df_prepared['Patient_ID'].iloc[0],
                 "report": report
             }
         )
@@ -282,18 +230,8 @@ async def generate_qol_report(request: Request):
         logger.error(f"Invalid JSON input: {e}")
         return JSONResponse(status_code=400, content={"error": "Invalid JSON input."})
 
-        
-
-    # except Exception as e:
-    #     logger.exception("Failed to process file.")
-    #     return JSONResponse(status_code=500, content={"error": str(e)})
-
-
-# Run locally:
-# if __name__ == "__main__":
-#     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
 if __name__ == "__main__":
     uvicorn.run(app, host="10.122.203.150", port=8000, reload=True)
 
-# # uvicorn main:app --reload
+# uvicorn main:app --reload
 

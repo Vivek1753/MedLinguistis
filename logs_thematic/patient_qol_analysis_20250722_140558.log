@@ -1,7 +1,0 @@
-2025-07-22 14:05:58,882 - INFO - Configuration and logging setup complete.
-2025-07-22 14:05:58,883 - INFO - Global MultiLabelBinarizer initialized.
-2025-07-22 14:06:02,087 - INFO - Use pytorch device_name: cpu
-2025-07-22 14:06:02,087 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
-2025-07-22 14:06:05,187 - INFO - Loading sentiment analysis model: ProsusAI/finbert on device: cpu
-2025-07-22 14:06:06,412 - INFO - Loading emotion classification model: cardiffnlp/twitter-roberta-base-emotion on device: cpu
-2025-07-22 14:06:07,676 - INFO - Loading zero-shot classification model: facebook/bart-large-mnli on device: cpu

@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "Patient_ID": "MARY SIMPSON",
+        "Name": "MARY SIMPSON",
+        "Age": 60,
+        "Gender": "Female",
+        "Ethnicity": "N/A",
+        "Marital Status": "N/A",
+        "Occupation": {
+            "Job Title": "N/A",
+            "Category": "N/A"
+        },
+        "Previous Hernia Repairs": [
+            {
+                "Year": 2015,
+                "Hospital": "Huddersfield",
+                "Type": "Open Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "Yes",
+                "Healing_Time": "2 months"
+            },
+            {
+                "Year": 2021,
+                "Hospital": "Huddersfield",
+                "Type": "Open Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "Yes",
+                "Healing_Time": "4 weeks"
+            }
+        ],
+        "Medical History": {
+            "Prior_Major_Surgeries": [
+                "Appendicectomy (1984, Manchester)",
+                "Open Myomectomy (1989, Manchester)",
+                "Caesarian Section (1992, Leeds)",
+                "Caesarian Section (1994, Leeds)",
+                "Caesarian Section (1997, Leeds)"
+            ],
+            "Diabetes": "Yes (Metformin)",
+            "Smoking_Status": "Yes (10 cigarettes a day for 40 years)",
+            "High_Blood_Pressure": "Yes",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "No",
+            "Abdominal_Wound_Infections_Past": "Yes",
+            "Serious_Infection_History": "Don't know",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "Metformin": "1g, twice a day",
+            "Vit D3": "2000 I.U., 2 tablets once a week",
+            "Sertraline": "50 mg, 1 tablet once a day",
+            "Lactulose": "15 ml, twice a day"
+        },
+        "Able to Lie Flat Comfortably": "N/A",
+        "QoL Areas Affected": [
+            "Symptoms",
+            "Body Image",
+            "Mental Health",
+            "Relationships (social and sexual)",
+            "Employment"
+        ]
+    },
+    "detected_themes": {
+        "Detected Themes": [
+            "Symptoms and Function",
+            "Body Image",
+            "Mental Health",
+            "Interpersonal Relationships",
+            "Employment/Financial Concerns"
+        ],
+        "Confidence Scores": {
+            "Symptoms and Function": 0.9581494331359863,
+            "Body Image": 0.6915819048881531,
+            "Mental Health": 0.7447498440742493,
+            "Interpersonal Relationships": 0.7390463352203369,
+            "Employment/Financial Concerns": 0.64113450050354
+        }
+    },
+    "sentiment_and_emotion_analysis": {
+        "Overall Sentiment": {
+            "Label": "neutral",
+            "Score": 0.889373779296875
+        },
+        "Top Emotions": {
+            "optimism": 0.7308868765830994,
+            "anger": 0.12603998184204102,
+            "sadness": 0.12183671444654465,
+            "joy": 0.021236464381217957
+        }
+    },
+    "zero_shot_classification": {
+        "Frustration or irritability": 0.9536792039871216,
+        "Social withdrawal": 0.8978055715560913,
+        "Feeling overwhelmed": 0.8977212905883789
+    },
+    "qol_summary": "Based on the provided patient narrative excerpts, here is a concise and empathetic summary of Mary Simpson's Quality of Life concerns:\n\n**Physical Symptoms and Functional Limitations**: Mary expresses concern about her physical condition, stating she has to wait for surgery and hopes it will not be too complex. She also mentions managing her pain and being physically unable to do more activities.\n\n**Body Image Concerns**: Mary is concerned about having a large bump on her body, which affects her ability to feel normal. She wants to be able to enjoy life again without this physical limitation.\n\n**Mental Health Challenges**: Mary experiences frustration, irritability, anxiety, feelings of being overwhelmed, and hopelessness. These emotions impact her daily life and relationships.\n\n**Impact on Interpersonal Relationships**: Mary's condition affects her interactions with family members, making it difficult for her to participate in activities and trips she would like to do with them.\n\n**Employment and Financial Concerns**: Mary is concerned about the financial burden of out-of-pocket expenses and is seeking help managing these costs. She also hopes that the medical operation will be covered by insurance.\n\nNote: There are no specific details mentioned regarding employment concerns, but it can be inferred that her condition may impact her ability to work or maintain a job.",
+    "wordcloud": [
+        [
+            "mary",
+            6
+        ],
+        [
+            "concerns",
+            4
+        ],
+        [
+            "life",
+            3
+        ],
+        [
+            "physical",
+            3
+        ],
+        [
+            "condition",
+            3
+        ],
+        [
+            "impact",
+            3
+        ],
+        [
+            "hopes",
+            2
+        ],
+        [
+            "also",
+            2
+        ],
+        [
+            "managing",
+            2
+        ],
+        [
+            "activities",
+            2
+        ],
+        [
+            "body",
+            2
+        ],
+        [
+            "concerned",
+            2
+        ],
+        [
+            "affects",
+            2
+        ],
+        [
+            "ability",
+            2
+        ],
+        [
+            "relationships",
+            2
+        ]
+    ]
+}

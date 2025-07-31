@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "Patient_ID": "JackieBarnes",
+        "Name": "JackieBarnes",
+        "Age": "56",
+        "Gender": "Female",
+        "Ethnicity": "N/A",
+        "Marital Status": "N/A",
+        "Occupation": {
+            "Job Title": "N/A",
+            "Category": "N/A"
+        },
+        "Previous Hernia Repairs": [
+            {
+                "Year": "2007",
+                "Hospital": "Maryland Hospital",
+                "Type": "Laparoscopic Incisional Hernia",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            },
+            {
+                "Year": "2018",
+                "Hospital": "Hull Royal Infirmary",
+                "Type": "Open Recurrent Incisional Hernia Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "Yes",
+                "Healing_Time": "4 months"
+            }
+        ],
+        "Medical History": {
+            "Prior_Major_Surgeries": [
+                "Laparoscopic cholecystectomy (2005, Maryland Hospital)"
+            ],
+            "Diabetes": "No",
+            "Smoking_Status": "Yes (1 cigarette a day for 30 years)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "No",
+            "Abdominal_Wound_Infections_Past": "Yes (after last surgery)",
+            "Serious_Infection_History": null,
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "None": "None, None"
+        },
+        "Able to Lie Flat Comfortably": "N/A",
+        "QoL Areas Affected": [
+            "Symptoms",
+            "Body Image",
+            "Mental Health",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "detected_themes": {
+        "Detected Themes": [
+            "Symptoms and Function",
+            "Mental Health",
+            "Interpersonal Relationships"
+        ],
+        "Confidence Scores": {
+            "Symptoms and Function": 0.5243800282478333,
+            "Mental Health": 0.5231705904006958,
+            "Interpersonal Relationships": 0.5009859204292297
+        }
+    },
+    "sentiment_and_emotion_analysis": {
+        "Overall Sentiment": {
+            "Label": "negative",
+            "Score": 0.4068513810634613
+        },
+        "Top Emotions": {
+            "joy": 0.28395888209342957,
+            "optimism": 0.28352880477905273,
+            "sadness": 0.2705301344394684,
+            "anger": 0.16198214888572693
+        }
+    },
+    "zero_shot_classification": {
+        "Low mood or depression": 0.984269917011261,
+        "Frustration or irritability": 0.9798385500907898,
+        "Feeling overwhelmed": 0.9270055890083313
+    },
+    "qol_summary": "**Physical Symptoms and Functional Limitations:** \nNot explicitly mentioned in the narrative for this theme.\n\n**Body Image Concerns:**\nThe patient expresses self-consciousness about their appearance due to a \"monstrosity\" that surgery could help alleviate. This suggests body image concerns related to physical appearance.\n\n**Mental Health Challenges:**\nThe patient reports feeling overwhelmed, frustrated or irritated, anxious, and having low mood or depression. They also mention social withdrawal and rumination. These emotions and patterns are mentioned across multiple excerpts, indicating persistent mental health challenges.\n\n**Impact on Interpersonal Relationships:**\nThe patient's mental health struggles affect their relationships, mentioning that they have gone back to working full-time due to difficulty managing finances, which may impact their ability to maintain friendships or intimate relationships.\n\n**Employment and Financial Concerns:**\nThe patient has had to return to work full-time despite initial hopes for surgery, and this decision affects their financial situation. They also express concerns about reducing pay if they change jobs, highlighting the importance of employment stability in their life.\n\nPlease note that this summary is based solely on the provided narrative excerpts and does not include any external information or assumptions.",
+    "wordcloud": [
+        [
+            "concerns",
+            4
+        ],
+        [
+            "patient",
+            4
+        ],
+        [
+            "mental",
+            3
+        ],
+        [
+            "health",
+            3
+        ],
+        [
+            "relationships",
+            3
+        ],
+        [
+            "physical",
+            2
+        ],
+        [
+            "mentioned",
+            2
+        ],
+        [
+            "narrative",
+            2
+        ],
+        [
+            "body",
+            2
+        ],
+        [
+            "image",
+            2
+        ],
+        [
+            "appearance",
+            2
+        ],
+        [
+            "due",
+            2
+        ],
+        [
+            "surgery",
+            2
+        ],
+        [
+            "challenges",
+            2
+        ],
+        [
+            "also",
+            2
+        ]
+    ]
+}

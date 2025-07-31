@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "Patient_ID": "Zoe Bell",
+        "Name": "Zoe Bell",
+        "Age": 80,
+        "Gender": "Female",
+        "Ethnicity": "Other",
+        "Marital Status": "Single",
+        "Occupation": {
+            "Job Title": "Retired",
+            "Category": "Retired"
+        },
+        "Previous Hernia Repairs": [
+            {
+                "Year": 1996,
+                "Hospital": "Regional Specialist Unit, Manchester",
+                "Type": "Open Repair",
+                "Mesh_Used": "Yes",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            },
+            {
+                "Year": 1992,
+                "Hospital": "Private Clinic, Sheffield",
+                "Type": "Open Repair",
+                "Mesh_Used": "No",
+                "Wound_Breakdown": "No",
+                "Healing_Time": null
+            }
+        ],
+        "Medical History": {
+            "Prior_Major_Surgeries": [
+                "Caesarian Section (3)"
+            ],
+            "Diabetes": "No",
+            "Smoking_Status": "No (never smoked)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {},
+        "Able to Lie Flat Comfortably": "N/A",
+        "QoL Areas Affected": [
+            "Mental Health",
+            "Symptoms",
+            "Body Image",
+            "Employment",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "detected_themes": {
+        "Detected Themes": [
+            "Symptoms and Function",
+            "Mental Health",
+            "Interpersonal Relationships"
+        ],
+        "Confidence Scores": {
+            "Symptoms and Function": 0.5243800282478333,
+            "Mental Health": 0.5231705904006958,
+            "Interpersonal Relationships": 0.5009859204292297
+        }
+    },
+    "sentiment_and_emotion_analysis": {
+        "Overall Sentiment": {
+            "Label": "negative",
+            "Score": 0.40688085556030273
+        },
+        "Top Emotions": {
+            "sadness": 0.29017654061317444,
+            "joy": 0.27931928634643555,
+            "optimism": 0.23052005469799042,
+            "anger": 0.1999841183423996
+        }
+    },
+    "zero_shot_classification": {
+        "Frustration or irritability": 0.9909446835517883,
+        "Anxiety": 0.9909105896949768,
+        "Low mood or depression": 0.990580677986145
+    },
+    "qol_summary": "Based on the provided patient narrative excerpts, I will summarize Zoe Bell's Quality of Life concerns in a structured format.\n\n**Physical Symptoms and Functional Limitations:**\nThe patient describes experiencing discomfort due to her hernia, which is affecting her ability to engage in activities she enjoys. She specifically mentions that bending over has become a struggle, making it difficult for her to play with her grandkids or help them with their projects. The patient also expresses frustration at being limited by this condition.\n\n**Body Image Concerns:**\nZoe Bell feels self-conscious about her physical limitations and describes herself as feeling like an \"old woman\" due to her hernia. She wants to feel like herself again, without the constraints of her condition.\n\n**Mental Health Challenges:**\nThe patient reports experiencing emotions such as frustration, anxiety, low mood or depression, feeling overwhelmed, hopelessness, rumination, and social withdrawal due to her condition. These feelings are affecting her overall well-being and quality of life.\n\n**Impact on Interpersonal Relationships:**\nZoe Bell's hernia is impacting her relationships with her grandkids. She wants to be able to play with them and help them with their projects, but her physical limitations are making it difficult for her to do so. This is causing feelings of sadness and disappointment.\n\n**Employment and Financial Concerns:**\nThere is no explicit mention of employment or financial concerns in the provided excerpts.\n\n**Additional Notes:**\nThe patient's overall sentiment remains negative throughout the narratives, reflecting their frustration, anxiety, and sadness about their condition.",
+    "wordcloud": [
+        [
+            "patient",
+            5
+        ],
+        [
+            "concerns",
+            4
+        ],
+        [
+            "condition",
+            4
+        ],
+        [
+            "zoe",
+            3
+        ],
+        [
+            "bell",
+            3
+        ],
+        [
+            "physical",
+            3
+        ],
+        [
+            "limitations",
+            3
+        ],
+        [
+            "due",
+            3
+        ],
+        [
+            "hernia",
+            3
+        ],
+        [
+            "frustration",
+            3
+        ],
+        [
+            "provided",
+            2
+        ],
+        [
+            "excerpts",
+            2
+        ],
+        [
+            "quality",
+            2
+        ],
+        [
+            "life",
+            2
+        ],
+        [
+            "describes",
+            2
+        ]
+    ]
+}

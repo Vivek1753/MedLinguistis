@@ -1,0 +1,87 @@
+{
+  "Patient_ID": "MARY SIMPSON",
+  "Metadata": {
+    "Age": 60,
+    "Gender": "Female",
+    "Weight_Current_Kg": 100,
+    "Weight_Lowest_Kg": 82,
+    "Weight_Highest_Kg": 110,
+    "Weight_Status": "staying the same",
+    "Previous_Hernia_Repairs": [
+      {
+        "Year": 2015,
+        "Hospital": "Huddersfield",
+        "Type": "Open Repair",
+        "Mesh_Used": "Yes",
+        "Wound_Breakdown": "Yes",
+        "Healing_Time": "2 months"
+      },
+      {
+        "Year": 2021,
+        "Hospital": "Huddersfield",
+        "Type": "Open Repair",
+        "Mesh_Used": "Yes",
+        "Wound_Breakdown": "Yes",
+        "Healing_Time": "4 weeks"
+      }
+    ],
+    "Medical_History": {
+      "Prior_Major_Surgeries": [
+        "Appendicectomy (1984, Manchester)",
+        "Open Myomectomy (1989, Manchester)",
+        "Caesarian Section (1992, Leeds)",
+        "Caesarian Section (1994, Leeds)",
+        "Caesarian Section (1997, Leeds)"
+      ],
+      "Diabetes": "Yes (Metformin)",
+      "Smoking_Status": "Yes (10 cigarettes a day for 40 years)",
+      "High_Blood_Pressure": "Yes",
+      "Thyroid_Disease": "No",
+      "Kidney_Disease": "No",
+      "Heart_Disease_History": "No",
+      "Asthma_COPD": "No",
+      "Sleep_Apnoea": "No",
+      "Arthritis": "No",
+      "Neurological_Disorder": "No",
+      "Immunosuppressed": "No",
+      "Cancer_History": "No",
+      "Alcohol_Consumption": "No",
+      "Abdominal_Wound_Infections_Past": "Yes",
+      "Serious_Infection_History": "Don't know",
+      "Stoma": "No",
+      "Able_to_lie_flat_comfortably": "Yes"
+    },
+    "Medications": {
+      "Metformin": "1g, twice a day",
+      "Vit D3": "2000 I.U., 2 tablets once a week",
+      "Sertraline": "50 mg, 1 tablet once a day",
+      "Lactulose": "15 ml, twice a day"
+    },
+    "QoL_Areas_Affected": [
+      "Symptoms",
+      "Body Image",
+      "Mental Health",
+      "Relationships (social and sexual)",
+      "Employment"
+    ]
+  },
+  "Narratives": {
+    "Symptoms_Restrictions_Activities": "Yes. I have been careful about walking outside as I get a lot of pain. I have to stop walking and have to stop walking then the pain goes, then sitting down & massaging my tummy, then start walking again.",
+    "Symptoms_Adaptations_Face": "Multiple adaptations, for example, use women's tight pants (spanx) so it holds my hernia in place. I also use a ladies bicycle as then I don't have to raise my legs over the bike.",
+    "Symptoms_Affect_Movement": "Yes it does. I am very aware of this hernia and find myself holding my tummy always.",
+    "Symptoms_Pain_Coping": "Yes it does - as described above. I cope by modifying things - e.g. use a shopping trolley instead of a basket or for only a few items so that I can avoid carrying them around.",
+    "BodyImage_SelfConscious_Embarrassed": "Yes it does. I look like I am 7 months pregnant. I have been asked and even congratulated on pregnancy!! I can't fit into any of my old clothes now. I can only buy larger sizes as they fit too baggy elsewhere around my waist. I now spend a long time getting ready when I do go out. My 4 year old granddaughter comes up to me, touches it and says \"Mama's belly is puddy\" and that is not nice as she is always like this.",
+    "BodyImage_Others_Noticing": "People look at me strangely when they see the lump and I am embarrassed. I feel people judge me when I go out and have an alcoholic drink in public because they think I am pregnant! I don't like my partner seeing it even though he is not bothered but I feel embarrassed by having it.",
+    "MentalHealth_Affected_Elaborate": "I feel like I am in a never ending negative situation. I have become more reclusive and isolated because of my anxiety about how people think of me because of how bulging my stomach is. I often feel frustrated with myself because of all the stuff I used to do with my family, holidays with children and grandchildren, such as taking them out. I seem to take much longer to clean the house and even decorating does not give me pleasure as it takes so long.",
+    "MentalHealth_Coping_Strategies": "I try to cope by staying in and avoiding conversations because people often ask me about it and it makes my mental health worse by thinking about it all the time. I sometimes start comfort eating to make myself feel better.",
+    "Relationships_Social_Affected": "Since I have had this I have been going out with friends less and less. I am too much in too much pain and get breathless very early when walking and I feel I am too much of a burden if anything was to happen such as collapsing in pain as my strangulated itself.",
+    "Relationships_Intimate_Affected": "Mine and my partner's sex life has gone downhill since I have had this hernia. It is too painful and uncomfortable to do anything and so we have backed off. My partner says it does not bother him and he completely understands but it still upsets me.",
+    "Employment_What_Do_You_Do": "I used to work looking after children with challenging behaviors & even did one-to-one support. I am worried that a child would accidentally injure me as my hernia is large.",
+    "Employment_Ability_To_Work_Affected": "Yes. I constantly worry that a child would hug me and unknowingly hurt my hernia as my hernia is large.",
+    "Employment_Changed_Work": "I have stopped working.",
+    "Employment_Financial_Affected": "Yes, absolutely. This is the third hospital I have traveled to and from. The earlier trip cost me £263.50. I then paid £50 in taxis. They then said it was too complex. I am really hoping you are not going to turn me away. I did speak to a transport provider for help to get to and from here but they told me I am not eligible. This trip is costing me £98 out of pocket.",
+    "SharedDecisionMaking_Questions": "Are you able to accept me for this operation? Help me with managing my pain. How long will I have to wait for surgery? What type of surgery will it be? What is the recovery time?",
+    "SharedDecisionMaking_Hopes": "I am hoping you will take me on and not say I am too complex. I am hoping to be able to be somewhat normal and not have this large bump.",
+    "SharedDecisionMaking_Matters_To_You": "That I can enjoy life again, play with my grandchild, lift her up, go on family trips. I want to be able to do more activities and keep up physically with my partner."
+  }
+}

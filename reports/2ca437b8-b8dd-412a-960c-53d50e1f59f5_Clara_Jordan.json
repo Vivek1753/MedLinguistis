@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "Patient_ID": "Clara Jordan",
+        "Name": "Clara Jordan",
+        "Age": 46,
+        "Gender": "Non-Binary",
+        "Ethnicity": "Other",
+        "Marital Status": "Divorced",
+        "Occupation": {
+            "Job Title": "Construction Worker",
+            "Category": "Physical Labor"
+        },
+        "Previous Hernia Repairs": [],
+        "Medical History": {
+            "Prior_Major_Surgeries": [
+                "Appendicectomy"
+            ],
+            "Diabetes": "No",
+            "Smoking_Status": "No (former smoker, quit 3 years ago)",
+            "High_Blood_Pressure": "No",
+            "Thyroid_Disease": "No",
+            "Kidney_Disease": "No",
+            "Heart_Disease_History": "No",
+            "Asthma_COPD": "No",
+            "Sleep_Apnoea": "No",
+            "Arthritis": "No",
+            "Neurological_Disorder": "No",
+            "Immunosuppressed": "No",
+            "Cancer_History": "No",
+            "Alcohol_Consumption": "Moderate",
+            "Abdominal_Wound_Infections_Past": "No",
+            "Serious_Infection_History": "No",
+            "Stoma": "No",
+            "Able_to_lie_flat_comfortably": "Yes"
+        },
+        "Medications": {
+            "Vitamin D": "Daily"
+        },
+        "Able to Lie Flat Comfortably": "N/A",
+        "QoL Areas Affected": [
+            "Symptoms",
+            "Body Image",
+            "Mental Health",
+            "Relationships (social and sexual)"
+        ]
+    },
+    "detected_themes": {
+        "Detected Themes": [
+            "Symptoms and Function",
+            "Body Image"
+        ],
+        "Confidence Scores": {
+            "Symptoms and Function": 0.5423007607460022,
+            "Body Image": 0.6325317025184631
+        }
+    },
+    "sentiment_and_emotion_analysis": {
+        "Overall Sentiment": {
+            "Label": "negative",
+            "Score": 0.4303140640258789
+        },
+        "Top Emotions": {
+            "optimism": 0.294247031211853,
+            "joy": 0.2883445918560028,
+            "anger": 0.21891699731349945,
+            "sadness": 0.19849134981632233
+        }
+    },
+    "zero_shot_classification": {
+        "Frustration or irritability": 0.9958832859992981,
+        "Anxiety": 0.9958775639533997,
+        "Low mood or depression": 0.9957813024520874
+    },
+    "qol_summary": "**Patient's Overall Quality of Life Summary**\n\nBased on the provided patient narrative excerpts, the following summary highlights the patient's concerns and experiences in relation to their Quality of Life.\n\n**Physical Symptoms and Functional Limitations:**\nThe patient does not explicitly mention any specific physical symptoms or functional limitations. However, they do mention feeling uncomfortable in their own skin, which might be related to body image concerns (see below).\n\n**Body Image Concerns:**\nThe patient expresses feelings of embarrassment and discomfort with their appearance, stating \"its not just the job its embarrassing honestly i dont feel comfortable in my own skin anymore.\" This suggests that their condition is affecting their self-image and confidence.\n\n**Mental Health Challenges:**\nThe patient's narrative excerpts consistently convey a sense of frustration, anxiety, low mood, feeling overwhelmed, hopelessness, rumination, and social withdrawal. They express feelings of not being able to provide for their family, which might be contributing to their emotional distress. They also mention wanting to feel normal again and feeling disconnected from themselves.\n\n**Impact on Interpersonal Relationships:**\nThe patient's condition appears to be affecting their relationships with others. They mention wanting to go out dancing with friends but now stay home instead, indicating a sense of social withdrawal. They also express the need to connect with others and be able to look at themselves without feeling disgusted, suggesting that their body image concerns are impacting their relationships.\n\n**Employment and Financial Concerns:**\nThe patient's condition is affecting their employment and financial stability. They mention being a construction worker who needs to provide for their family but is struggling due to their physical limitations. This financial strain is likely exacerbating their mental health challenges.\n\nNote that the patient does not explicitly mention specific details about employment or financial concerns beyond this general statement, so further information would be necessary to fully understand these themes.",
+    "wordcloud": [
+        [
+            "patient",
+            9
+        ],
+        [
+            "concerns",
+            6
+        ],
+        [
+            "mention",
+            6
+        ],
+        [
+            "feeling",
+            4
+        ],
+        [
+            "image",
+            4
+        ],
+        [
+            "financial",
+            4
+        ],
+        [
+            "physical",
+            3
+        ],
+        [
+            "limitations",
+            3
+        ],
+        [
+            "body",
+            3
+        ],
+        [
+            "condition",
+            3
+        ],
+        [
+            "affecting",
+            3
+        ],
+        [
+            "relationships",
+            3
+        ],
+        [
+            "employment",
+            3
+        ],
+        [
+            "quality",
+            2
+        ],
+        [
+            "life",
+            2
+        ]
+    ]
+}
