@@ -71,7 +71,6 @@ Default: http://127.0.0.1:8000
 - **Headers:**  `Content-Type: application/json`
 - **Body Type:**  `raw` → `JSON`
 - **Example JSON Input:**  Located inside the `testing_data/` folder.
-  This JSON should contain anonymized patient metadata and narrative fields.
 
 ## Project Structure
 ``` bash
