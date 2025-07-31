@@ -45,17 +45,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 4. Download and Setup Models
-You have two options:
-Option A: Offline Setup
+- You have two options:
+- Option A: Offline Setup
 If you're working in a fully offline environment:
 ```bash
 python model.py
 ```
-This will download and configure all models from Hugging Face
-Note: These directories are excluded from GitHub using .gitignore
+- This will download and configure all models from Hugging Face
+- Note: These directories are excluded from GitHub using .gitignore
 
 Option B: Download Models from Google Drive
-Download the required models from the following link and place them in the appropriate folders:
+- Download the required models from the following link and place them in the appropriate folders:
 https://drive.google.com/your_model_download_link_here
 
 
