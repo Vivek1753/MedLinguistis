@@ -25,5 +25,19 @@ This project is an end-to-end offline-ready NLP pipeline designed to analyze pat
 ### 1. 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+git clone https://github.com/Vivek1753/MedLinguistis.git
+```
+### 2. Create and Activate a Virtual Environment
+
+```bash
+# On Windows
+python -m venv venv
+venv\Scripts\activate
+
+# On Linux/macOS
+python3 -m venv venv
+source venv/bin/activate
+```
+
+
