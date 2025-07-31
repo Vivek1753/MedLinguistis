@@ -52,7 +52,7 @@ If you're working in a fully offline environment:
 python model.py
 ```
 - This will download and configure all models from Hugging Face
-- Note: These directories are excluded from GitHub using .gitignore
+- Note: These directories are excluded from GitHub using `.gitignore`
 
 Option B: Download Models from Google Drive
 - Download the required models from the following link and place them in the appropriate folders: https://drive.google.com/your_model_download_link_here
@@ -68,7 +68,7 @@ Default: http://127.0.0.1:8000
 - **Method:** `POST`
 - **Endpoint:** `http://127.0.0.1:8000/generate_report/`
 - **Headers:**  `Content-Type: application/json`
-- - **Body Type:**  `raw` → `JSON`
+- **Body Type:**  `raw` → `JSON`
 - **Example JSON Input:**  Sample patient records for testing are available in the following folder: `testing_data/`
 
 
