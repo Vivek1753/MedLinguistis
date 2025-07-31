@@ -45,7 +45,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 4. Download and Setup Models
-- You have two options:
+You have two options:
   
 Option A: Offline Setup
 - If you're working in a fully offline environment:
@@ -64,14 +64,32 @@ uvicorn main:app --reload
 ```
 Default: http://127.0.0.1:8000
 
-## 📬 API Usage (via Postman)
+## API Usage (via Postman)
 
 - **Method:** `POST`
 - **Endpoint:** `http://127.0.0.1:8000/generate_report/`
 - **Headers:**  `Content-Type: application/json`
 - **Body Type:**  `raw` → `JSON`
-- **Example JSON Input:**  Sample patient records for testing are available in the following folder: `testing_data/`
+- **Example JSON Input:**  Located inside the `testing_data/` folder.
+  This JSON should contain anonymized patient metadata and narrative fields.
 
+## Project Structure
+``` bash
+├── chroma_db/                    # Chroma vector store 
+├── data/                         # Raw or processed data
+├── offline_models/               # ⚠️ [Ignored] Local model storage
+├── qol_classifier_fine_tuned/    # ⚠️ [Ignored] Fine-tuned models
+├── reports/                      # Generated patient reports
+├── report_images/                # Images/visuals for reports
+├── testing_data/                 # Sample patient data in JSON format
+├── pipeline.py                   # Pipeline configuration & orchestration
+├── model.py                      # Loads models & sets up offline mode
+├── main.py                       # FastAPI app entry point
+├── visualize.py                  # Additional utility scripts
+├── requirements.txt              # Dependency list
+├── .gitignore                    # Git ignore rules
+└── README.md                     # This file
+```
 
 
 
